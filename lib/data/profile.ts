@@ -12,8 +12,8 @@ export const profile = {
   subhead: "Building at the intersection of AI and financial markets.",
   bio: "Full-stack developer focused on AI-powered simulators, agentic systems, and tools that make markets and routines more intelligible.",
   location: "Bengaluru, India",
-  currentProject: "AI Market Reaction Simulator",
-  interests: "multi-agent systems, markets, productivity tools that don't lie",
+  currentProject: "CogniIQ AI",
+  interests: "multi-agent systems, markets, productivity tools and quant finance",
   githubHandle: "Akul321",
   githubUrl: "https://github.com/Akul321",
   socials: [

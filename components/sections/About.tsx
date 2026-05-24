@@ -68,11 +68,11 @@ export default function About() {
                 { label: "Location", value: "Bengaluru, India 📍" },
                 {
                   label: "Currently",
-                  value: "building the AI Market Reaction Simulator",
+                  value: "building CogniIQ AI",
                 },
                 {
                   label: "Into",
-                  value: "multi-agent systems, markets, productivity tools that don't lie",
+                  value: "multi-agent systems, markets, productivity tools and quant finance",
                 },
                 { label: "Find me", value: "github.com/Akul321" },
               ].map(({ label, value }) => (

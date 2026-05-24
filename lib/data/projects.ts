@@ -11,29 +11,6 @@ export interface Project {
 
 export const projects: Project[] = [
   {
-    id: "ai-market-reaction-simulator",
-    name: "AI Market Reaction Simulator",
-    status: "Live",
-    tagline: "Multi-agent LLM simulator that models how markets react to news.",
-    description:
-      "A full-stack financial intelligence platform that converts market news into structured event signals, simulates five participant types (retail, hedge fund, institutional, analyst, market maker) across three interaction rounds, and renders a dashboard with sentiment, price direction, volatility, and reversal probability. Uses FinBERT for NLP with a deterministic finance-aware fallback.",
-    stack: [
-      "Python",
-      "FastAPI",
-      "SQLAlchemy",
-      "SQLite",
-      "Pydantic",
-      "yfinance",
-      "Hugging Face (FinBERT)",
-      "Next.js 14",
-      "TypeScript",
-      "Tailwind",
-      "Recharts",
-    ],
-    liveUrl: "https://ai-market-reaction-simulator.vercel.app",
-    githubUrl: "https://github.com/Akul321/ai-market-reaction-simulator",
-  },
-  {
     id: "agent-arena",
     name: "Agent Arena",
     status: "Live",
